@@ -87,6 +87,10 @@ header {
   text-align: center;
 }
 
+li:first-child {
+  border-bottom: 1.8px solid black;
+}
+
 .nav-links > li > a {
   min-width: 8rem;
   display: flex;
